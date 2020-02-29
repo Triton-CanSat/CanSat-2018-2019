@@ -1,4 +1,4 @@
-#CanSat-2018-2019
+# CanSat-2018-2019
 
 Mission: Auto Gyro
 
